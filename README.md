@@ -4,7 +4,7 @@
 <br>
 
 
-&nbsp; Hi there 👋  [visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/ttbs1) <br>
+&nbsp; Hi there 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/ttbs1) <br>
 &nbsp; - :raising_hand_man: I'm Thiago, I'm from Brazil born in 93, graduated in computer science at 2019 <br>
 &nbsp; - 🔨 I'm currently studying front-end development <br>
 &nbsp; - 🌱 I'm working on my Reactjs skills <br>
