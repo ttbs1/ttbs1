@@ -19,6 +19,7 @@
 
 
 <div align="center">
+Socials: <br>
 <a href="https://www.linkedin.com/in/ttbs1" target="_blank" rel="nofollow"><img alt="Thiago's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 <a href="https://www.instagram.com/ttbs1" target="_blank" rel="nofollow"><img alt="Thiago's Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" /></a>
 <a href="https://www.twitch.tv/uchihamansion" target="_blank" rel="nofollow"><img alt="Thiago's Twitch" width="22px" src="https://logopng.com.br/logos/twitch-55.png" /></a>
