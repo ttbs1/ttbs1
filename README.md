@@ -19,5 +19,11 @@
 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/ttbs1" target="_blank" rel="nofollow"><img alt="Thiago's Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/ttbs1" target="_blank" rel="nofollow"><img alt="Thiago's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+<a href="https://www.linkedin.com/in/ttbs1" target="_blank" rel="nofollow"><img alt="Thiago's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+<a href="https://www.instagram.com/ttbs1" target="_blank" rel="nofollow"><img alt="Thiago's Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" /></a>
+<a href="https://www.twitch.tv/uchihamansion" target="_blank" rel="nofollow"><img alt="Thiago's Twitch" width="22px" src="https://logopng.com.br/logos/twitch-55.png" /></a>
+<a href="https://wa.me/5537988434097" target="_blank" rel="nofollow"><img alt="Thiago's Twitch" width="22px" src="https://www.acquamondo.com.br/site/images/wpp-color.png" /></a>
+<a href="https://www.facebook.com/ttbs2" target="_blank" rel="nofollow"><img alt="Thiago's Twitch" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" /></a>
+<a href="https://www.youtube.com/channel/UCfYvvUnb7RwcjX0ko8aouZw" target="_blank" rel="nofollow"><img alt="Thiago's Youtube" width="22px" src="https://nvps.net/wp-content/uploads/2020/08/Youtube-Video-Icon.png" /></a>
 </div>
+
