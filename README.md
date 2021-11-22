@@ -1,5 +1,3 @@
-
-
 <img src='https://c.tenor.com/Pe7wve872cIAAAAd/night-office.gif' align='left'>
 <br>
 
