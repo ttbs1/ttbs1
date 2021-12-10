@@ -26,3 +26,4 @@ Socials: <br>
 <a href="https://www.youtube.com/channel/UCfYvvUnb7RwcjX0ko8aouZw" target="_blank" rel="nofollow"><img alt="Thiago's Youtube" width="22px" src="https://nvps.net/wp-content/uploads/2020/08/Youtube-Video-Icon.png" /></a>
 </div>
 
+<br>
