@@ -10,7 +10,7 @@
 &nbsp; - :musical_keyboard: I love music, all kinds <br>
 &nbsp; - :green_heart: I like being challenged, I'm determined and a very friendly person that loves to socialize <br>
 &nbsp; - 🌐 Visit my [portfolio website](https://ttbs1.github.io/thiago) for some more info and contact. <br>
-&nbsp; - ⚡ Main interests: JAVASCRIPT | CSS | HTML | MySQL <br>
+&nbsp; - ⚡ Main interests: Javascript | CSS | HTML | MySQL <br>
 &nbsp; - 💞️ I’m looking to collaborate on open source frontend projects to improve my skills and grow as a developer <br>
 &nbsp; - 📫 How to reach me: thiagotuliobs@gmail.com
 <div align="center">
