@@ -22,5 +22,5 @@
 <a href="https://www.youtube.com/channel/UCfYvvUnb7RwcjX0ko8aouZw" target="_blank" rel="nofollow"><img alt="Thiago's Youtube" width="22px" src="https://nvps.net/wp-content/uploads/2020/08/Youtube-Video-Icon.png" /></a>
   <br><br>
   <img height="100" src="https://github-readme-stats.vercel.app/api?username=ttbs1&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dark" />
-  <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=ttbs1&theme=dark" />
+  <img height="115" src="https://github-readme-streak-stats.herokuapp.com/?user=ttbs1&theme=dark" />
 </div>
