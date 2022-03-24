@@ -5,7 +5,7 @@
 &nbsp; - :man_technologist:	React Bootcamp accomplished december 01st to december 24th (2021) <br>
 &nbsp; - 🔨 I'm currently studying frontend development <br>
 &nbsp; - 🌱 I'm working on my Reactjs skills <br>
-&nbsp; - :eyes: I'm looking for a job as a junior frontend web developer <br>
+&nbsp; - :eyes: I'm looking for a job as a frontend web developer <br>
 &nbsp; - :heart_eyes: I'm a web development passionate <br>
 &nbsp; - :musical_keyboard: I love music, all kinds <br>
 &nbsp; - :green_heart: I like being challenged, I'm determined and a very friendly person that loves to socialize <br>
