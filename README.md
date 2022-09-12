@@ -1,4 +1,4 @@
-<img height="" src='https://c.tenor.com/Pe7wve872cIAAAAd/night-office.gif' align='left'>
+<div align="center"><img height='' width='' src='https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif'></div>
 
 ## Hi there 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/ttbs1) <br>
 &nbsp; - :raising_hand_man: I'm Thiago, I'm from Brazil born in 93, graduated in computer science since 2019 <br>
@@ -21,6 +21,6 @@
 <a href="https://www.facebook.com/ttbs2" target="_blank" rel="nofollow"><img alt="Thiago's Twitch" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" /></a>
 <a href="https://www.youtube.com/channel/UCfYvvUnb7RwcjX0ko8aouZw" target="_blank" rel="nofollow"><img alt="Thiago's Youtube" width="22px" src="https://nvps.net/wp-content/uploads/2020/08/Youtube-Video-Icon.png" /></a>
   <br><br>
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=ttbs1&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dark" />
+  <img height="115" src="https://github-readme-stats.vercel.app/api?username=ttbs1&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=dark" />
   <img height="115" src="https://github-readme-streak-stats.herokuapp.com/?user=ttbs1&theme=dark" />
 </div>
