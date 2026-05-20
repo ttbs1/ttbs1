@@ -74,14 +74,9 @@
 
 ---
 
-<div>
-
-<div>
+<div align="center">
 
 <img src="https://ghstats.dev/api/card?username=ttbs1" />
 
-</div>
-
 ⭐ Thanks for visiting my profile ⭐
-
 </div>
