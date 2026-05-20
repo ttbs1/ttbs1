@@ -48,16 +48,7 @@
 
 <br><br>
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=ttbs1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="165"
-src="https://streak-stats.demolab.com?user=ttbs1&theme=tokyonight"/>
-
-<br>
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttbs1&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -83,7 +74,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttbs1&layout
 
 ---
 
-<div align="center">
+<div>
+
+<div>
+
+<img src="https://ghstats.dev/api/card?username=ttbs1" />
+
+</div>
 
 ⭐ Thanks for visiting my profile ⭐
 
