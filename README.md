@@ -16,6 +16,24 @@
 &nbsp; - 🌐 Visit my portfolio: [Portfolio](https://ttbs1.github.io/thiago) <br>
 &nbsp; - 📫 Contact: **thiagotuliobs@gmail.com**
 
+---
+
+## 🌍 Languages
+
+- 🇧🇷 Portuguese  
+  ⭐⭐⭐ (Native)
+
+- 🇺🇸 English  
+  ⭐⭐⭐ (Advanced)
+
+- 🇫🇷 French  
+  ⭐⭐ (Basic)
+
+- 🇪🇸 Spanish  
+  ⭐ (Basic)
+
+---
+
 <div align="center">
 
 <div align="center">
